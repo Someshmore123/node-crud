@@ -1,0 +1,23 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "this is node CRUD operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Someshmore123/node-crud.git"
+  },
+  "author": "Somesh More",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Someshmore123/node-crud/issues"
+  },
+  "homepage": "https://github.com/Someshmore123/node-crud#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
